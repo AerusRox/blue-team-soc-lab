@@ -1,9 +1,6 @@
 
 # Brute Force Prevention Playbook
 
-Prevention and response guide for brute force attacks against Windows 10 in the Blue Team SOC Lab.
-
-> **⚠️ Privacy Note:** All IP addresses and usernames are masked or generalized to avoid exposing real system information.
 
 ## 📌 Overview
 
