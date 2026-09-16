@@ -90,6 +90,4 @@ During installation, assign the network interfaces as follows:
 
 > **Change the default password immediately after first login.**
 
-## 📸 Screenshot
 
-![pfSense Setup](../screenshots/soc-lab-setup.png)
