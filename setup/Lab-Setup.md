@@ -1,6 +1,6 @@
 ## 🏗️ Network Diagram
 
-![Network Diagram](screenshots/network-diagram.png)
+![Network Diagram](setup/Setup.png)
 
 ## 🧠 Diagram Logic
 
