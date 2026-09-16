@@ -23,3 +23,16 @@ The goal was to move beyond theory and gain real experience with the tools and w
 - Firewall configuration and network segmentation (pfSense)
 - Detection engineering (SPL queries, alerts)
 - Incident response (triage, containment, documentation)
+
+## 💻 PC Requirements
+
+| Component | Specification |
+| :--- | :--- |
+| **Host OS** | Windows 10/11 or Linux |
+| **RAM** | 16 GB |
+| **Storage** | 512 GB SSD |
+| **CPU** | Intel Core i5 |
+| **GPU** | NVIDIA RTX 2050 |
+| **Hypervisor** | VMware Workstation |
+| **Internet** | Required for Splunk Cloud |
+
