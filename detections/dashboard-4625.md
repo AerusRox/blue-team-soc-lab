@@ -40,9 +40,6 @@ The dashboard contains five panels. Each panel uses a specific Splunk search and
 5. Click **Apply** and then **Save**.
 6. Repeat for all five panels.
 
-## 📸 Screenshot
-
-![Dashboard 4625](../screenshots/dashboard-4625.png)
 
 > **Privacy Note:** All IP addresses and usernames in screenshots are masked to protect sensitive information.
 
